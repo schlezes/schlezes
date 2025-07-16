@@ -2,24 +2,28 @@ Hello,
 
 I am Vince Schlezes.
 
-A vanilla JavaScript developer.
+Up until 2023, I was committed to vanilla JavaScript as a developer.
 
-  * I have about 4000 lines of vanilla JavaScript code on the internet with schlezes.com and schlezes.tech.
+I produced about 4000 lines of vanilla JavaScript code on the internet with schlezes.com, schlezes.tech and schlezes profile plus several presentation projects that I prepared for the JavaScript Meetup Groups.
 
-I am Living in the Los Angeles Area and am active with LA City Tax Certificate.
+However; in stepping back,
 
-During 2021, I was recruited for a position that required a clearance, and I was adjudicated for interim Secret Clearance;
+During 2021, I was recruited for a position that required a clearance.
 
-therefore,
+That changed everything as suddenly I was confronted with several new diciplines that must be achieved before continuation as into service with the US Government.
 
-I deleted all of my visible presence on the web with schlezes.com, schlezes.tech, Indeed and GitHub repositories to disappear from the public domain.
+The most important of everything was my attention to Cyber Security.
 
-Now, in the beginning of April 2022, I am starting to rebuild my new presence in the public domain with web pages, Indeed and GitHub repositories.
+In the middle of July 2023 it became clear that I had switch all of my attention to the study of Cyber Security and Security Plus as a minimum qualification for further advancement as a software engineer.
 
-And, am ready to re-open for business with on site coding.
+Part of that was to remove myself from a visible presence on the web with schlezes.com, schlezes.tech, and schlezes profile.
 
-My special interest is with Vue as I evolve from imperative to declarative rendering discipline with Vue.
+I stopped using Indeed, and I removed GitHub repositories to disappear from the public domain.
 
-At this juncture, I have about 4 months of Vue CLI for the front-end, and I am preparing a Vue CLI slide set for Vue meetup in Los Angles.
+To me, Cyber Security was like 4 years of Computer Science all jammed into one test.
+
+And to perform with that dicipline that meant a commitment to the deep dive study into the world of Cyber Security diciplines.
+
+
 
 Thanks.
